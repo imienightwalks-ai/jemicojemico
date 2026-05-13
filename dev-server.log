@@ -67,3 +67,12 @@ Watchpack Error (initial scan): Error: EINVAL: invalid argument, lstat 'C:\DumpS
 Watchpack Error (initial scan): Error: EINVAL: invalid argument, lstat 'C:\hiberfil.sys'
 Watchpack Error (initial scan): Error: EINVAL: invalid argument, lstat 'C:\pagefile.sys'
 Watchpack Error (initial scan): Error: EINVAL: invalid argument, lstat 'C:\swapfile.sys'
+Watchpack Error (initial scan): Error: EINVAL: invalid argument, lstat 'C:\DumpStack.log.tmp'
+Watchpack Error (initial scan): Error: EINVAL: invalid argument, lstat 'C:\hiberfil.sys'
+Watchpack Error (initial scan): Error: EINVAL: invalid argument, lstat 'C:\pagefile.sys'
+Watchpack Error (initial scan): Error: EINVAL: invalid argument, lstat 'C:\swapfile.sys'
+ ✓ Compiled /_error in 3.8s (1816 modules)
+ GET / 200 in 1754ms
+ GET / 200 in 56ms
+ GET / 500 in 8242ms
+ GET / 200 in 331ms
