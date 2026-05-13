@@ -23,3 +23,47 @@
  GET / 200 in 115ms
  ✓ Compiled in 678ms (1483 modules)
  GET / 200 in 95ms
+ ⨯ Error: Could not find the module "C:\Users\user\Documents\Codex\2026-05-13\you-are-an-elite-full-stack\node_modules\next\dist\next-devtools\userspace\app\segment-explorer-node.js#SegmentViewNode" in the React Client Manifest. This is probably a bug in the React Server Components bundler.
+    at stringify (<anonymous>) {
+  digest: '3600699094'
+}
+ ⨯ Error: Could not find the module "C:\Users\user\Documents\Codex\2026-05-13\you-are-an-elite-full-stack\node_modules\next\dist\next-devtools\userspace\app\segment-explorer-node.js#SegmentViewNode" in the React Client Manifest. This is probably a bug in the React Server Components bundler.
+    at stringify (<anonymous>)
+    at stringify (<anonymous>) {
+  digest: '2778697842'
+}
+ ⨯ Error: Could not find the module "C:\Users\user\Documents\Codex\2026-05-13\you-are-an-elite-full-stack\node_modules\next\dist\next-devtools\userspace\app\segment-explorer-node.js#SegmentViewNode" in the React Client Manifest. This is probably a bug in the React Server Components bundler.
+    at stringify (<anonymous>)
+    at stringify (<anonymous>) {
+  digest: '2778697842'
+}
+ ⨯ Error: Could not find the module "C:\Users\user\Documents\Codex\2026-05-13\you-are-an-elite-full-stack\node_modules\next\dist\next-devtools\userspace\app\segment-explorer-node.js#SegmentViewNode" in the React Client Manifest. This is probably a bug in the React Server Components bundler.
+    at stringify (<anonymous>)
+    at stringify (<anonymous>) {
+  digest: '2778697842'
+}
+ ⨯ Error: Could not find the module "C:\Users\user\Documents\Codex\2026-05-13\you-are-an-elite-full-stack\node_modules\next\dist\next-devtools\userspace\app\segment-explorer-node.js#SegmentViewNode" in the React Client Manifest. This is probably a bug in the React Server Components bundler.
+    at stringify (<anonymous>) {
+  digest: '3600699094'
+}
+ ⨯ Error: Could not find the module "C:\Users\user\Documents\Codex\2026-05-13\you-are-an-elite-full-stack\node_modules\next\dist\next-devtools\userspace\app\segment-explorer-node.js#SegmentViewNode" in the React Client Manifest. This is probably a bug in the React Server Components bundler.
+    at stringify (<anonymous>) {
+  digest: '3600699094'
+}
+ ⨯ [TypeError: __webpack_modules__[moduleId] is not a function] {
+  digest: '2156177073'
+}
+ ⨯ Error: Could not find the module "C:\Users\user\Documents\Codex\2026-05-13\you-are-an-elite-full-stack\node_modules\next\dist\next-devtools\userspace\app\segment-explorer-node.js#SegmentViewNode" in the React Client Manifest. This is probably a bug in the React Server Components bundler.
+    at stringify (<anonymous>) {
+  digest: '3600699094'
+}
+[TypeError: __webpack_modules__[moduleId] is not a function]
+ ⨯ [TypeError: __webpack_modules__[moduleId] is not a function]
+ ⨯ [TypeError: __webpack_modules__[moduleId] is not a function] {
+  page: '/'
+}
+ ○ Compiling /_error ...
+Watchpack Error (initial scan): Error: EINVAL: invalid argument, lstat 'C:\DumpStack.log.tmp'
+Watchpack Error (initial scan): Error: EINVAL: invalid argument, lstat 'C:\hiberfil.sys'
+Watchpack Error (initial scan): Error: EINVAL: invalid argument, lstat 'C:\pagefile.sys'
+Watchpack Error (initial scan): Error: EINVAL: invalid argument, lstat 'C:\swapfile.sys'
