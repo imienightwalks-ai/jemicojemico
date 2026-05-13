@@ -1,0 +1,25 @@
+
+> jemicos-book-quotes-library@0.1.0 dev
+> next dev --port 3000
+
+   ▲ Next.js 15.5.18
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.1.4:3000
+
+ ✓ Starting...
+ ✓ Ready in 2.1s
+ ○ Compiling / ...
+ ✓ Compiled / in 5.9s (1483 modules)
+ GET / 200 in 6497ms
+ GET / 200 in 72ms
+ GET / 200 in 79ms
+ ○ Compiling /favicon.ico ...
+ ✓ Compiled /favicon.ico in 547ms (810 modules)
+ GET /favicon.ico 200 in 745ms
+ ✓ Compiled in 916ms (1483 modules)
+ GET / 200 in 291ms
+ GET / 200 in 294ms
+ ✓ Compiled in 674ms (1483 modules)
+ GET / 200 in 115ms
+ ✓ Compiled in 678ms (1483 modules)
+ GET / 200 in 95ms
